@@ -275,7 +275,7 @@ const Signup = () => {
                 </Box>
               </HStack>
 
-              <HStack>
+              {/* <HStack>
                 <Checkbox
                   mb={"20px"}
                   mt="20px"
@@ -289,7 +289,7 @@ const Signup = () => {
                   w={"22px"}
                   h="22px"
                 />
-              </HStack>
+              </HStack> */}
 
               <HStack spacing={"3px"} mb="10px">
                 <Box
